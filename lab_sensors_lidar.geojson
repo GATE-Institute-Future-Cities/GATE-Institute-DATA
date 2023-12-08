@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "lab_sensors_lidar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::7801" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "objectid": 1, "object": "L1", "y": 42.659485, "x": 23.316427, "address": "бул. „Черни връх“ - ул. „Хенрик Ибсен“/ул. „Сребърна“ (Парадайс център)", "sensor_type": "Lidar sensor", "installation_status": "Инсталиран" }, "geometry": { "type": "Point", "coordinates": [ 321001.27139999717474, 4727204.169399999082088 ] } },
+{ "type": "Feature", "properties": { "id": 2, "objectid": 2, "object": "L2", "y": 42.659543, "x": 23.316693, "address": "бул. „Черни връх“ - ул. „Хенрик Ибсен“/ул. „Сребърна“ (Парадайс център)", "sensor_type": "Lidar sensor", "installation_status": "Инсталиран" }, "geometry": { "type": "Point", "coordinates": [ 321023.238300003111362, 4727210.046700000762939 ] } },
+{ "type": "Feature", "properties": { "id": 3, "objectid": 3, "object": "L3", "y": 42.65938, "x": 23.316787, "address": "бул. „Черни връх“ - ул. „Хенрик Ибсен“/ул. „Сребърна“ (Парадайс център)", "sensor_type": "Lidar sensor", "installation_status": "Инсталиран" }, "geometry": { "type": "Point", "coordinates": [ 321030.4746999964118, 4727191.747900001704693 ] } },
+{ "type": "Feature", "properties": { "id": 4, "objectid": 4, "object": "L4", "y": 42.659132, "x": 23.316597, "address": "бул. „Черни връх“ - ул. „Хенрик Ибсен“/ул. „Сребърна“ (Парадайс център)", "sensor_type": "Lidar sensor", "installation_status": "Инсталиран" }, "geometry": { "type": "Point", "coordinates": [ 321014.191500000655651, 4727164.6118 ] } },
+{ "type": "Feature", "properties": { "id": 5, "objectid": 5, "object": "L5", "y": 42.659106, "x": 23.316205, "address": "бул. „Черни връх“ - ул. „Хенрик Ибсен“/ул. „Сребърна“ (Парадайс център)", "sensor_type": "Lidar sensor", "installation_status": "Инсталиран" }, "geometry": { "type": "Point", "coordinates": [ 320981.989600002765656, 4727162.5548 ] } },
+{ "type": "Feature", "properties": { "id": 6, "objectid": 6, "object": "L6", "y": 42.659254, "x": 23.31616, "address": "бул. „Черни връх“ - ул. „Хенрик Ибсен“/ул. „Сребърна“ (Парадайс център)", "sensor_type": "Lidar sensor", "installation_status": "Инсталиран" }, "geometry": { "type": "Point", "coordinates": [ 320978.726199999451637, 4727179.084199998527765 ] } },
+{ "type": "Feature", "properties": { "id": 7, "objectid": 7, "object": "Rack", "y": 42.659551, "x": 23.316405, "address": "бул. „Черни връх“ - ул. „Хенрик Ибсен“/ул. „Сребърна“ (Парадайс център)", "sensor_type": "Fusion Computer", "installation_status": "Инсталиран" }, "geometry": { "type": "Point", "coordinates": [ 320999.657700002193451, 4727211.544799998402596 ] } }
+]
+}
