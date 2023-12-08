@@ -11,7 +11,7 @@ List of datasets:
       - lab_sensors_pedestrian.geojson - locations of pedestrian counting sensors
 
       
-- prediction_20231112_no2.csv -
-- prediction_20231112_o3.csv -
-- prediction_20231112_pm10.csv -
-- prediction_20231112_so2.csv - 
+- prediction_20231112_no2.csv - prediction of polution with NO2
+- prediction_20231112_o3.csv - prediction of polution with O3
+- prediction_20231112_pm10.csv - prediction of polution with PM10
+- prediction_20231112_so2.csv - prediction of polution with SO2
