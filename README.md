@@ -1,9 +1,9 @@
 # GATE-Institute-DATA
 
 List of datasets:
-  Data from GATE City Living Lab sensors:
-- CLL_air_quality.rar - sensors for air quality
-- CLL_pedestrian.rar - sensors for predestrian counting
+    - Data from GATE City Living Lab sensors:
+      -- CLL_air_quality.rar - sensors for air quality
+      -- CLL_pedestrian.rar - sensors for predestrian counting
 - lab_sensors_air.geojson -
 - lab_sensors_lidar.geojson -
 - lab_sensors_noise.geojson -
